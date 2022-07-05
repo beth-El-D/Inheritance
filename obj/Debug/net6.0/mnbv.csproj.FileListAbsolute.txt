@@ -1,0 +1,15 @@
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\mnbv\bin\Debug\net6.0\mnbv.exe
+C:\Users\SAMSUNG\Desktop\mnbv\bin\Debug\net6.0\mnbv.deps.json
+C:\Users\SAMSUNG\Desktop\mnbv\bin\Debug\net6.0\mnbv.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\mnbv\bin\Debug\net6.0\mnbv.dll
+C:\Users\SAMSUNG\Desktop\mnbv\bin\Debug\net6.0\mnbv.pdb
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.dll
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\refint\mnbv.dll
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.pdb
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\mnbv.genruntimeconfig.cache
+C:\Users\SAMSUNG\Desktop\mnbv\obj\Debug\net6.0\ref\mnbv.dll
